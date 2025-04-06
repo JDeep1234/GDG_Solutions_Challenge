@@ -207,7 +207,8 @@ The system architecture is designed to be comprehensive and modular:
 ![image](https://github.com/user-attachments/assets/e83c8d34-844c-4a32-919c-bcb2bad5c730)
 
 ## Offline App
-![image](https://github.com/user-attachments/assets/b534f1c7-1984-40d4-9421-fbe46dc74551)
+![image](https://github.com/user-attachments/assets/e1c8a5dd-6a10-4f8e-afad-ae18df8cf5fb)
+
 
 
 
