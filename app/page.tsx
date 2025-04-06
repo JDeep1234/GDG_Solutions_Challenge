@@ -74,7 +74,7 @@ export default function HomePage() {
                   <ChevronRight className="ml-2 group-hover:translate-x-1 transition-transform" />
                 </Button>
               </Link>
-              <Link href="/learn-more">
+              <Link href="https://drive.google.com/file/d/1aFG0BzJVJTF2R1qXLcd6EbSb8wHELvbW/view?usp=sharing">
                 <Button 
                   variant="outline" 
                   size="lg" 
