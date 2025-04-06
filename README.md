@@ -63,7 +63,7 @@ The system architecture is designed to be comprehensive and modular:
   - Instant feedback dashboard with actionable suggestions.  
   - Integration with training modules for personalized development.  
 - **Tech Stack:**  
-  - Gemini API for advanced feedback.
+  - Gemini API for advanced feedback for website and gemma3 for offline app.
   - Google Translate for multilingual support.  
   - Next.js, Typescript, Tailwind CSS for the feedback dashboard.  
   - WebSocket for real-time communication.  
