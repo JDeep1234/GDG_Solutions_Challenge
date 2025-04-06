@@ -150,6 +150,7 @@ The system architecture is designed to be comprehensive and modular:
 - Google Cloud Vision
 - Translation API
 - Gemini API 2.0 Flash
+- Gemma 3 for offline app
 - **Key Advantages:**
   - Multilingual support
   - Advanced image and speech processing
